@@ -1,4 +1,7 @@
 # vue-image-lightbox
+
+!!! Fork of [pexea12's work](https://github.com/pexea12/vue-image-lightbox)
+
 A simple image lightbox component for Vuejs  
 [NPM Package](https://www.npmjs.com/package/vue-image-lightbox)  
 

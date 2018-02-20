@@ -1,8 +1,8 @@
 {
-  "name": "vue-image-lightbox",
+  "name": "@likecoin/vue-image-lightbox",
   "description": "A Vue.js package to display an image gallery lightbox",
   "version": "5.5.3",
-  "author": "Nguyen Thien Dzung <dzungnguyenvn@outlook.com>",
+  "author": "William Chong <williamchong@likecoin.foundation>",
   "license": "MIT",
   "main": "dist/vue-image-lightbox.min.js",
   "files": [
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pexea12/vue-image-lightbox"
+    "url": "https://github.com/likecoin/vue-image-lightbox"
   },
   "keywords": [
     "vue",
@@ -27,9 +27,9 @@
     "image lightbox"
   ],
   "bugs": {
-    "url": "https://github.com/pexea12/vue-image-lightbox/issues"
+    "url": "https://github.com/likecoin/vue-image-lightbox/issues"
   },
-  "homepage": "https://github.com/pexea12/vue-image-lightbox",
+  "homepage": "https://github.com/likecoin/vue-image-lightbox",
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
