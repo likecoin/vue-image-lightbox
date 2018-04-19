@@ -1,8 +1,8 @@
 {
   "name": "@likecoin/vue-image-lightbox",
   "description": "A Vue.js package to display an image gallery lightbox",
-  "version": "5.5.3",
-  "author": "William Chong <williamchong@likecoin.foundation>",
+  "version": "5.5.4",
+  "author": "William Chong <williamchong@like.co>",
   "license": "MIT",
   "main": "dist/vue-image-lightbox.min.js",
   "files": [
@@ -54,7 +54,6 @@
     "webpack-dev-server": "^2.4.5"
   },
   "dependencies": {
-    "vue-lazyload": "^1.0.3",
-    "vue-touch": "next"
+    "vue-lazyload": "^1.0.3"
   }
 }
